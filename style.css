@@ -1,69 +1,58 @@
 * {
     margin: 0;
     padding: 0;
-    }
-    
-    
-    #logo {
+}
+
+
+#logo {
     width: 10%;
     height: 10%;
-    }
-    
-    
-    .header-pai {
-        position: relative;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-    }
-    
-    
-    nav li {
-        display: inline;
-        padding: 20px;
-    }
-    
-    
-    #banner-topo {
+}
+
+
+.header-pai {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+nav li {
+    display: inline;
+    padding: 20px;
+}
+
+
+#banner-topo {
     width: 100%;
-    }
-    
-    
-    h1 {
-        text-align: center;
-        color: rgb(255, 255, 255);
-        text-transform: uppercase;
-       
-    }
-    
-    
-    body {
-        background: rgb(63, 94, 251);
-        background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
-    }
-    
-    
-    .texto {
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+
+}
+
+
+body {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+
+
+.texto {
     background-color: #cccccc;
     font-size: 35px;
     text-align: center;
-    }
+}
 
-    .servico{display: flex;
-width: 100vw;
-height: 300px;
-justify-content: space-evenly
-aling-intem
-
-.item-servico
-
-
-    }
-
-
-    
-    
-    
-    
-    
-    
+.servico {
+    display: flex;
+    width: 100vw;
+    height: 300px;
+    justify-content: space-evenly;
+    align-items: center;
+}

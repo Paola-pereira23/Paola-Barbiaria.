@@ -53,7 +53,13 @@ body {
     display: flex;
     width: 100vw;
     height: 300px;
+
+}
+
+.item-servico {
+    display: flex;
     justify-content: space-evenly;
     align-items: center;
-    border: 1px solid #cccccc;;
+    border: 1px solid #cccccc;
+    ;
 }
